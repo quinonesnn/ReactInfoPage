@@ -1,2 +1,5 @@
 # ReactInfoPage
-Learning the basic of React
+Learning the basics of React
+
+What I've Learned:
+
